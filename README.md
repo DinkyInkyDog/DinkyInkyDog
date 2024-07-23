@@ -2,7 +2,7 @@
 - 👀 I’m interested in dogs. I love everything about them and could talk about them for hours.
 - 🌱 I’m currently learning HTML, CSS, and Python
 - 💞️ I’m looking to collaborate on Game Design
-- 📫 How to reach me please don't. 😅
+- 📫 The best way to reach me is through LinkedIn. 
 
 <!---
 DinkyInkyDog/DinkyInkyDog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
